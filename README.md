@@ -66,15 +66,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/rudhaesmeraldo/rudhaesmeraldo/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="300" src="https://alphacoders.com/solo-leveling-gifs"  />
-</div>
-
-###
