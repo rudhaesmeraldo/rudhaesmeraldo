@@ -1,33 +1,32 @@
-<h1 align="center">
-  👋 Hi, I'm Rudhá Esmeraldo
-</h1>
+<h1 align="center">👋 Olá, eu sou o Rudhá Esmeraldo</h1>
 
 <h3 align="center">
-Python Backend Developer • Full Stack Developer • Software Engineering Student
+Desenvolvedor de Software • Backend com Python • Estudante de Engenharia de Software
 </h3>
 
 <p align="center">
-Building scalable web applications, SaaS platforms and automation solutions.
+Transformando ideias em soluções digitais através de sistemas web, plataformas SaaS e aplicações escaláveis.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Python+Developer;Backend+Developer;Building+SaaS+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Desenvolvedor+Backend;Python+%7C+Django;Criando+Sistemas+Web;Desenvolvendo+Plataformas+SaaS;Sempre+Aprendendo+Algo+Novo" />
 </p>
 
 ---
 
-# 🚀 About Me
+# 🚀 Sobre mim
 
-- 🎓 Software Engineering Student
-- 💻 Backend Developer focused on Python
-- 🌎 Passionate about building scalable systems
-- 🚀 Interested in SaaS, APIs, Cloud and Software Architecture
-- 📚 Currently learning Docker, AWS and DevOps
-- 🎯 Goal: Become a Senior Software Engineer
+Sou desenvolvedor de software e estudante de Engenharia de Software, apaixonado por criar soluções que resolvem problemas reais.
+
+Atualmente atuo no desenvolvimento de sistemas web, plataformas SaaS, APIs REST e aplicações voltadas para gestão empresarial utilizando principalmente **Python** e **Django**.
+
+Tenho interesse especial por Arquitetura de Software, Banco de Dados, Computação em Nuvem, DevOps e boas práticas de desenvolvimento, buscando sempre construir aplicações seguras, organizadas e escaláveis.
+
+Atualmente estou desenvolvendo projetos próprios voltados para gestão empresarial, automação de processos e soluções web modernas.
 
 ---
 
-# 📊 GitHub Stats
+# 📊 Estatísticas
 
 <div align="center">
 
@@ -37,6 +36,8 @@ Building scalable web applications, SaaS platforms and automation solutions.
 
 </div>
 
+<br>
+
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudhaesmeraldo&theme=tokyo-night&hide_border=true"/>
@@ -45,9 +46,9 @@ Building scalable web applications, SaaS platforms and automation solutions.
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tecnologias
 
-### Backend
+## Backend
 
 <p>
 
@@ -55,15 +56,15 @@ Building scalable web applications, SaaS platforms and automation solutions.
 
 </p>
 
-### Frontend
+## Frontend
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
 
 </p>
 
-### Database
+## Banco de Dados
 
 <p>
 
@@ -71,7 +72,7 @@ Building scalable web applications, SaaS platforms and automation solutions.
 
 </p>
 
-### Tools
+## Ferramentas
 
 <p>
 
@@ -81,38 +82,31 @@ Building scalable web applications, SaaS platforms and automation solutions.
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Atualmente
 
-🚀 **Business Management SaaS**
-
-ERP platform for small and medium-sized businesses.
-
----
-
-📊 **PET-Saúde Attendance Management System**
-
-Web system developed for managing attendance and reports.
+- 🏢 Desenvolvendo uma plataforma SaaS para gestão empresarial.
+- 📊 Criando sistemas web voltados para gestão e automação de processos.
+- 🌐 Desenvolvendo sites institucionais e landing pages modernas.
+- 📚 Estudando Arquitetura de Software, Cloud Computing e DevOps.
+- 💡 Buscando criar soluções escaláveis e de alto desempenho.
 
 ---
 
-🌐 **Professional Websites & Landing Pages**
+# 🎯 Áreas de Interesse
 
-Responsive websites focused on conversion and performance.
-
----
-
-# 🌱 Currently Working On
-
-- SaaS Development
-- Clean Architecture
-- REST APIs
+- Desenvolvimento Backend
+- Desenvolvimento Web
+- Arquitetura de Software
+- APIs REST
+- SaaS
 - Cloud Computing
-- Docker
-- AWS
+- DevOps
+- Banco de Dados
+- Engenharia de Software
 
 ---
 
-# 📫 Connect With Me
+# 📫 Contato
 
 <p align="center">
 
@@ -120,11 +114,15 @@ Responsive websites focused on conversion and performance.
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://www.linkedin.com/in/rudhaesmeraldo">
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/rudhaesmeraldo/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://www.instagram.com/rudhaesmeraldo">
+&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/rudhaesmeraldo/" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
@@ -134,6 +132,14 @@ Responsive websites focused on conversion and performance.
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=rudhaesmeraldo&style=for-the-badge)
+### 💭 "A tecnologia é mais poderosa quando resolve problemas reais."
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=rudhaesmeraldo&style=for-the-badge&color=blue"/>
 
 </div>
